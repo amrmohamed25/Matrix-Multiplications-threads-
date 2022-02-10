@@ -22,17 +22,27 @@ rows of 2nd matrix] [number of columns of 2nd matrix]
 entries
 Note: [] for clarity
 example input:
+
 3 5
+
 1 -2 3 4 5
-Assignment 2 - pthreads
+
 11 2 -3 4 5
+
 -1 2 3 4 5
+
 5 4
+
 -1 2 3 4
+
 1 -2 3 4
+
 1 2 -3 4
+
 1 2 3 -4
+
 -1 -2 -3 -4
+
 output format:
 [result matrix
 END1 [elapsed
