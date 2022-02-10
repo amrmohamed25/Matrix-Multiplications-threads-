@@ -44,12 +44,13 @@ example input:
 -1 -2 -3 -4
 
 output format:
-[result matrix
-END1 [elapsed
-[result matrix
-END2 [elapsed
-entries]
-time of procedure 1]
-entries]
-time of procedure 2]
+
+[result matrix entries]
+
+END1 [elapsed time of procedure 1]
+
+[result matrix entries]
+
+END2 [elapsed time of procedure 2]
+
 Once again please note that [] is for clarity you shouldn't print it
